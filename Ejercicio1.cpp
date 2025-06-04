@@ -10,7 +10,7 @@ int main(){
 		cout<< i*7 <<endl;
 		}
 	}else{
-		cout<<"digite otro numero que no sea negativos o cero"<<endl;
+		cout<<"Digite un numero que no sea igual a cero ni negativos"<<endl;
 	}
 	return 0;
 }
